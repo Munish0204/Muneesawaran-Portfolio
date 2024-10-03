@@ -195,6 +195,7 @@ body .body-overlay {
     background-color: var(--priC);
     border-radius: 30px;
     transition: .5s;
+    text-decoration-line: none;
 }
 
 .main-content-left-fixed .buton:hover {
